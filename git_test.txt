@@ -1,1 +1,3 @@
 test
+試しにVisual Studio Codeで
+gitの練習をしてみました！
