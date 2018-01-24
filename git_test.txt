@@ -3,3 +3,4 @@ test
 gitの練習をしてみました！
 今度はLubuntuからVSCodeで
 gitの練習をしてみました！
+イージスビショ最強！
